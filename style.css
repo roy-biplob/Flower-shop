@@ -191,11 +191,9 @@
 .letest_deal_container {
   height: 450px;
   background-image: url("Flower\ Asset/Rectangle 9.png");
-  
-
 }
 .letest_deal_text {
-text-align: center;
+  text-align: center;
 }
 .letest_deal_text h3 {
   color: #272727;
@@ -218,3 +216,37 @@ text-align: center;
   margin-right: 7px;
 }
 
+footer {
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background-color: #111010;
+}
+.footer_section {
+  text-align: center;
+}
+.footer_section h3 {
+  color: white;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+  margin-bottom: 30px;
+}
+.flower {
+  color: #e55473;
+}
+.footer_discus {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  margin-bottom: 25px;
+}
+.all_right {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 16px;
+  font-weight: 400;
+}
