@@ -37,7 +37,7 @@
   background: #e55473;
   padding: 20px 43px;
   border: none;
-
+  cursor: pointer;
 }
 .header_photo {
   width: 600px;
