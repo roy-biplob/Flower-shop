@@ -9,7 +9,7 @@
   background-color: #e554731a;
 }
 .header_container {
-  margin: 0px 100px;
+  margin: 0px 150px;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -37,6 +37,7 @@
   background: #e55473;
   padding: 20px 43px;
   border: none;
+  
 }
 .header_photo {
   width: 600px;
@@ -46,7 +47,7 @@
 
 /* future style start  */
 .future_section {
-  margin: 100px 100px;
+  margin: 100px 150px;
 }
 
 .our_future_container h3 {
@@ -114,7 +115,7 @@
 .hotdeal_container {
   display: flex;
   justify-content: space-around;
-  gap: 30px;
+  gap: 10px;
   align-items: center;
   margin: 0px 100px;
 }
@@ -147,7 +148,7 @@
 
 /* insta style start  */
 .insta_section {
-  margin: 0px 100px;
+  margin: 0px 300px;
 }
 .insta_text {
   text-align: center;
@@ -169,12 +170,13 @@
 .insta_photo {
   display: flex;
   justify-content: space-around;
+  gap: 20px;
 }
 
 .box4 img {
   width: 300px;
   height: 350px;
-  margin-right: 15px;
+  
 }
 
 .box4 {
