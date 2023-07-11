@@ -110,7 +110,7 @@
 /* hotdeal css start  */
 .hotdeal_section {
   background-color: #e554730d;
-  height: 600px;
+  height: 450px;
 }
 .hotdeal_container {
   display: flex;
@@ -145,3 +145,48 @@
     height: 350px;
     padding: 100px 150px;
 }
+
+
+
+
+/* insta style start  */
+.insta_section{
+  margin: 0px 100px;
+}
+.insta_text{
+  text-align: center;
+  margin: 100px 0px 50px 0px;
+}
+.insta_text h3 {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 15px;
+}
+.insta_text p{
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+
+}
+
+.insta_photo{
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.box4 img{
+  width: 300px;
+  height: 350px;
+  margin-right: 15px;
+}
+
+.box4{
+  margin-bottom: 125px;
+}
+
+/* insta style end  */
+
+
